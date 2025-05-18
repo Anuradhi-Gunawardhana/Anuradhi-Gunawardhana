@@ -1,4 +1,3 @@
-![My GIF](Anuradhi-Gunawardhana/assets/season 2 my identity GIF by Vocativ.gif)
 
 
 <h1 align="center">Hi 👋, I'm Chanika Anuradhi</h1>
