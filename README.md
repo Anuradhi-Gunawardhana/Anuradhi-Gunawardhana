@@ -64,4 +64,4 @@ Passionate **Third-Year Software Engineering Undergraduate** at **SLTC Research 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080b14&height=80&section=footer&text=CODE%20•%20DESIGN%20•%20INNOVATE&fontSize=18&fontColor=06b6d4&animation=fadeIn"/>
 </div>
-uda design ek venas karala denna
+
