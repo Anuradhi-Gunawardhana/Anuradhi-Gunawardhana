@@ -1,26 +1,67 @@
+<div align="center">
+
+<!-- 🏢 HEADER: PREMIUM & MINIMALIST -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080b14,100:16213e&height=220&section=header&text=Chanika%20Anuradhi&fontSize=48&fontColor=06b6d4&animation=fadeIn&fontAlignY=45"/>
+
+<br/>
 
 
-<h1 align="center">Hi 👋, I'm Chanika Anuradhi</h1>
-<h3 align="center">Passionate Software Engineering Undergraduate at SLTC </h3>
+<!-- 🛡️ PROFESSIONAL TITLE & SUMMARY -->
+<h1>Software Engineering Undergraduate & UI/UX Enthusiast</h1>
+<p><i>Building practical, innovative solutions through research & hands-on development.</i></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuradhi-gunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhi-gunawardhana" /> </p>
-
----
-
-- 🔭 I’m currently working on **NeuroCloud - User-Controlled Mood Tracking & Secure Data Storage**
-
-- 🌱 I’m currently learning **Python with Flask**
-
-- 💬 Ask me about **Python & Web development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anuradhi-gunawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradhi gunawardhana" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/anuradhi-gunawardhana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chanikaanuradhi2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://chanikaanuradhi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📋 EXECUTIVE SUMMARY
 
+Passionate **Third-Year Software Engineering Undergraduate** at **SLTC Research University** with a strong foundation in **Full-Stack Development** and **UI/UX Design**. Dedicated to building effective solutions through structured research. Currently exploring advanced networking and cloud computing while maintaining a **CGPA of 3.36**.
+
+---
+
+### 🛠️ TECH STACK & TOOLKIT
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **💻 Programming** | `Python` `C++` `Kotlin` `JavaScript` |
+| **🎨 UI/UX Design** | `Figma` `Maze` `Adobe Suite` |
+| **🌐 Frontend** | `HTML5` `CSS3` `React (Learning)` |
+| **⚙️ Tools & Utilities**| `Jira` `Postman` `Selenium` `Jupyter` |
+| **📡 Networking** | `CCNA` `Linux Server Admin` `Packet Tracer` |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,cpp,kotlin,js,html,css,figma,linux,bash,git,github,vscode&perline=6" />
+
+</div>
+
+---
+
+### 📜 CERTIFICATIONS & MILESTONES
+
+<div align="center">
+
+| **Certification / Achievement** | **Issuing Organization** | **Status** |
+| :--- | :--- | :--- |
+| **CCNA** | Vibernets Academy | ✅ Certified |
+| **Linux Server Admin & Security** | Vibernets Academy | ✅ Certified |
+| **Codemania v5.0** | SLTC Research University | 🏆 Participant |
+
+</div>
+
+---
+
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080b14&height=80&section=footer&text=CODE%20•%20DESIGN%20•%20INNOVATE&fontSize=18&fontColor=06b6d4&animation=fadeIn"/>
+</div>
+uda design ek venas karala denna
